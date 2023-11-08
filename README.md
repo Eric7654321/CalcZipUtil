@@ -9,3 +9,4 @@ After it finished, you'll find the zip file at
 >Calc_Compress-Util\out\production\Calc_Compress-Util\CalcMakeZip\finalThing
 
 Hope you pass this class with A+!
+(其實我建議直接開vscode編譯src底下的the_main)
