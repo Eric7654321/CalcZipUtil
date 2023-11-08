@@ -4,6 +4,7 @@ version demand:higher than JDK17
 
 Run "Calc_Compress-Util.jar" with:
 >java -jar Calc_Compress-Util.jar
+
 on your terminal, and then it would tell you instructs like set your root_name and the nums of file you want to input...
 
 After it finished, you'll find the zip file and the root things at a folder named "finalThing"
